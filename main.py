@@ -4,7 +4,7 @@ import requests
 import weather
 
 api_key = "dff3301f39bdb3a9d22cd0c963fcb564"
-discord_token = "MTA0Mzc4OTc5NjIwNTY2MjMwMA.G0AKtY.4pI0gQ7j_dAxpOXzaSuWG7nnybWH1rZNa85Fps"
+discord_token = "MTA0Mzc4OTc5NjIwNTY2MjMwMA.GcM5Pb.NQ7zdXErUMiXWdefGHctD-hHXdTX5QAbiu2OuE"
 command_prefix = "W/"
 client = discord.Client()
 
